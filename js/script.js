@@ -8,7 +8,6 @@ import calculator from "./modules/calculator";
 import slider  from "./modules/slider";
 
 document.addEventListener('DOMContentLoaded', () => {
-    console.log(1);
     tabs();
     modal();
     timer();
